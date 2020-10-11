@@ -39,8 +39,6 @@ body, input, select, button {
 	text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 	margin: 0 0 25px;
 }
-#intro .about-me-content button {
-}
 #intro img {
 	position: absolute;
 	left: 0;
@@ -54,4 +52,5 @@ body, input, select, button {
     left: 50%;
     margin-left: -512px;   /* 50% */
   }
+}
 }
