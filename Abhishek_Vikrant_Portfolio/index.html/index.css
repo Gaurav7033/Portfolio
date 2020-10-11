@@ -4,6 +4,7 @@ html, body {
 body, input, select, button {
 	font-family: 'Montserrat';
 }
+@import "./styles/about.css";
 #intro {
 	position: relative;
 	min-height: 100%;
