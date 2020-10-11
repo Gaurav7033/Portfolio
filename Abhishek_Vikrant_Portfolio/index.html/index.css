@@ -38,8 +38,6 @@ body, input, select, button {
 display: flex;
 position: relative;
 padding: 5px;
-
-}
 #intro .about-me-content h1 {
 	font-weight: 500;
 	font-size: 3.5em;
@@ -60,5 +58,4 @@ padding: 5px;
     margin-left: -512px;   /* 50% */
   }
 }
-
 }
