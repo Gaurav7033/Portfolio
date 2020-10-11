@@ -4,6 +4,7 @@ html, body {
 body, input, select, button {
 	font-family: 'Montserrat';
 }
+@import "./styles/about.css";
 #intro {
 	position: relative;
 	min-height: 100%;
@@ -33,6 +34,10 @@ body, input, select, button {
 	display: block;
 	margin: 0 0 15px;
 }
+ .nav_bar{
+display: flex;
+position: relative;
+padding: 5px;
 #intro .about-me-content h1 {
 	font-weight: 500;
 	font-size: 3.5em;
