@@ -19,6 +19,13 @@ body, input, select, button {
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
+
+.btn-primary
+{
+	margin-left: 10px;
+}
+
+
 #intro::after {
 	content: "";
 	position: absolute;
